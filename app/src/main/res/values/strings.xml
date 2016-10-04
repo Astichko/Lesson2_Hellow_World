@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lesson 1</string>
+    <string name="hello_world">Hello world</string>
+    <string name="self_delete_button">Self Delete Button</string>
+    <string name="create_new_button">Create New Button</string>
+    <string name="new_button">New Button</string>
+    <string name="create_button">Create Button</string>
+</resources>
